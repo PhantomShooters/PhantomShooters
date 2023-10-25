@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PhantomShooters
 - 👀 Im a creater of a new game called Phantom Shooters which is currently in beta (looking for beta testers).
 - 🤯 We have alot of different animations in Phantom Shooters such as exposions, realistic gunfire etc.
-- 💵 We are willing to pay anyone 50$ USD that beta test the game, provide feedback etc. Payment will be after u have done the beta testing, To prove this u mus have a video of u beta testing.
+- 💵 We are willing to pay anyone 50$ USD that beta test the game, provide feedback etc. Payment will be after u have done the beta testing, To prove this u must have a video of u beta testing.
